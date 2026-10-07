@@ -16,8 +16,8 @@
     phones: ['0722 165012', '0732 625447'],
     phoneTels: ['+254722165012', '+254732625447'],
     email: '[TO BE ADDED]',
-    facebook: '[TO BE ADDED: Facebook URL]',
-    instagram: '[TO BE ADDED: Instagram URL]',
+    facebook: 'https://www.facebook.com/p/Gracious-Schools-Lanet-100093564097010/]',
+    instagram: 'https://www.instagram.com/gracious_schools_lanet/]',
     logo: '/images/logo.svg',
   };
 
@@ -88,7 +88,7 @@
                 <img src="${SCHOOL.logo}" alt="${SCHOOL.name} crest logo" />
                 <span>Gracious Schools</span>
               </div>
-              <p>A mixed day and boarding primary school in Lanet, Nakuru County, offering Competency-Based Education. Nurturing learning, creativity, and character.</p>
+              <p>A mixed day and boarding school in Lanet, Nakuru County, offering Competency-Based Education. Nurturing learning, creativity, and character.</p>
               <div class="footer-social">
                 <a href="${SCHOOL.facebook}" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                 <a href="${SCHOOL.instagram}" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>

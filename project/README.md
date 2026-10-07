@@ -1,6 +1,6 @@
 # Gracious Schools Lanet — Website
 
-A five-page website for Gracious Schools Lanet, a mixed day and boarding primary school in Lanet, Nakuru County, Kenya.
+A five-page website for Gracious Schools Lanet, a mixed day and boarding school in Lanet, Nakuru County, Kenya.
 
 Built with plain HTML, CSS, and JavaScript. No frameworks, no backend.
 
@@ -96,7 +96,7 @@ On `contact.html`, replace the `.map-placeholder` div with a Google Maps embed:
 
 ### 5. Social media links
 
-Search for `[TO BE ADDED: Facebook URL]` and `[TO BE ADDED: Instagram URL]` and replace with the real links.
+Search for `https://www.facebook.com/p/Gracious-Schools-Lanet-100093564097010/]` and `https://www.instagram.com/gracious_schools_lanet/]` and replace with the real links.
 
 ### 6. Phone numbers and school info
 
