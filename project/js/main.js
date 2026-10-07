@@ -1,5 +1,5 @@
 /* ============================================================
-   GRACIOUS SCHOOL LANET — MAIN JAVASCRIPT
+   GRACIOUS SCHOOLS LANET — MAIN JAVASCRIPT
    Plain JavaScript. No frameworks, no dependencies.
    Handles: header/footer injection, mobile menu, active nav,
             gallery lightbox, current year in footer.
@@ -10,7 +10,7 @@
 
   /* ---------- SCHOOL DATA (edit here to update across all pages) ---------- */
   const SCHOOL = {
-    name: 'Gracious School Lanet',
+    name: 'Gracious Schools Lanet',
     brand: 'Gracious Schools',
     location: 'Lanet, Nakuru County, Kenya',
     phones: ['0722 165012', '0732 625447'],
